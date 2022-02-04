@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Python**
 
-- 💬 Ask me about **C, C++, Python, HTML/CS, Javascript**
+- 💬 Ask me about **C, C++, Python, HTML/CSS, Javascript**
 
 - 📫 How to reach me **shaikhabubakar789@gmail.com**
 
